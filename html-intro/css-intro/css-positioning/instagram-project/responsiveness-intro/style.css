@@ -1,0 +1,117 @@
+
+.right-box {
+
+
+  border: solid grey 1px;
+  border-radius: 2px;
+  height: 618px;
+  width: 454px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+  }
+
+}
+
+@media screen and (min-width:500px) {
+  .rightbox{
+    width:49%
+  }
+}
+@media screen and (max-width: 480px) {
+  .rightbox{
+    width:100%
+
+
+  }
+
+  }
+
+}
+}
+}
+
+  }
+}
+.left-box {
+  height: 618px;
+  width: 454px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.ig-logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+  width: 50%;
+}
+
+.text {
+  color: grey;
+  text-align: center;
+  font-weight: bold;
+  font-family: courier;
+  margin-top: -10px;
+}
+
+.tiny-fb-logo {
+  width: 13px;
+  height: 13px;
+  margin: -2px;
+  margin-right: 3px;
+}
+
+.blue-box {
+  background-color: #3b5998;
+  color: white;
+  border-radius: 3px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+  width: 75%;
+  font-weight: bold;
+  font-family: courier;
+  text-align: center;
+  padding: 5px;
+}
+
+.plain-text {
+  text-align: center;
+  font-family: courier black;
+  margin-bottom: 30px;
+}
+
+.app-image {
+  margin-left: 75px;
+}
+
+.footer-list li {
+  display: inline;
+  color: #3b5998;
+  font-family: courier;
+  font-weight: bold;
+  padding-left: 10px;
+}
+
+input {
+  border-radius: 3px;
+  margin-top: 3px;
+  margin-left: 55px;
+  margin-right: auto;
+  width: 75%;
+  padding: 5px;
+  color: lightgrey;
+}
+
+main {
+  position: absolute;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  margin: 0 auto;
+}
